@@ -1,6 +1,6 @@
 # 🛒 Proyecto de Ecommerce
 
-Creando una aplicación de ecommerce simple pero cautivadora usando React, Bootstrap y la Fake Store API.
+Creando una aplicación de ecommerce simple pero cautivadora usando React, Bootstrap y consumiendo API de PHP.
 
 ## ✅ Páginas y Rutas Principales
 
