@@ -20,7 +20,7 @@ Creando una aplicación de ecommerce simple pero cautivadora usando React, Boots
 ## Captura de pantalla
 - Incicio
   
-  <img src="https://github.com/miguelmallquidiaz/simple-ecommerce/blob/main/doc/home.png" height="400px" alt="home">
+<img src="https://github.com/miguelmallquidiaz/simple-ecommerce/blob/main/doc/home.png" height="400px" alt="home">
   
 - Productos
 
